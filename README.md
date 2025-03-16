@@ -1,4 +1,4 @@
-## Hi there 👋 MAIN ACCOUNT: (@purple86a)[https://github.com/purple86a]
+## Hi there 👋 MAIN ACCOUNT: [@purple86a](https://github.com/purple86a)
 
 <!--
 **PURPLEWATER00/PURPLEWATER00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
